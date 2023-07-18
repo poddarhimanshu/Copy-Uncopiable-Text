@@ -30,6 +30,9 @@ To use Copy-It-All, follow these steps:
 
 We welcome contributions to enhance the functionality and usability of Copy-It-All. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Let's collaborate to make this app even better!
 
+### Video Tutorial
+For a step-by-step guide on how to use Copy-It-All, check out our YouTube tutorial: [Copy-It-All App Tutorial](https://www.youtube.com/watch?v=liMInwUU8qI&t=4s)
+
 ## License
 
 Copy-It-All is released under the [APACHE License](LICENSE). Feel free to use, modify, and distribute this app as per the terms of the license.
