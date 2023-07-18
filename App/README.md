@@ -15,7 +15,7 @@ Copy-It-All-App/
 | |-- Icon.ico
 | |-- Screenshot1.png
 |-- config.json
-|-- [TrayApp.exe]([https://www.youtube.com/watch?v=liMInwUU8qI&t=4s](https://drive.google.com/file/d/1spFxHXnBHEqecxnHKd-PsRBIY3g83eyq/view?usp=drive_link))Download
+|-- [TrayApp.exe Download](https://drive.google.com/file/d/1spFxHXnBHEqecxnHKd-PsRBIY3g83eyq/view?usp=drive_link)
 ```
 
 ## How to Run the App
@@ -35,4 +35,4 @@ To run the app, follow these steps:
 3. Download the app from the above link and launch the app by executing the TrayApp.exe file. Once launched, the app icon will appear in the system tray of your desktop.
 
 ## Video Tutorial
-For a step-by-step guide on how to use Copy-It-All, check out our YouTube tutorial: [Copy-It-All App Tutorial](https://www.youtube.com/watch?v=liMInwUU8qI&t=4s)https://www.youtube.com/watch?v=liMInwUU8qI&t=4s
+For a step-by-step guide on how to use Copy-It-All, check out our YouTube tutorial: [Copy-It-All App Tutorial](https://www.youtube.com/watch?v=liMInwUU8qI&t=4s)
