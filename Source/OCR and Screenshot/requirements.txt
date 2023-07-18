@@ -1,0 +1,8 @@
+opencv_python==4.6.0.66
+Pillow==9.1.1
+Pillow==10.0.0
+pyperclip==1.8.2
+PyQt5==5.15.9
+PyQt5_sip==12.11.0
+pytesseract==0.3.9
+pywin32==304
